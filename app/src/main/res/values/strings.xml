@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EyeTwister</string>
+    <string name="reset_button">Push</string>
 </resources>
