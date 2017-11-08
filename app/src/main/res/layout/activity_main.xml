@@ -17,7 +17,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
 >
-    <me.projects.android.eyetwister.customviews.MyView
+    <me.projects.android.eyetwister.customviews.MainView
             android:id="@+id/Pie"
             android:layout_width="match_parent"
             android:layout_height="0dp"
