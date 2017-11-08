@@ -34,7 +34,7 @@ public class MainView extends View {
 
     @Override
     protected void onDraw(Canvas canvas) {
-        canvas.drawCircle(350,350, 5, paint);
-        canvas.drawCircle(350,650, 5, paint);
+        canvas.drawCircle(350, 450, 5, paint);
+        canvas.drawCircle(350, 750, 5, paint);
     }
 }
